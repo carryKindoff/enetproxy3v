@@ -10,7 +10,7 @@ termux:
 termux-setup-storage
 apt update
 apt install clang
-git clone https://github.com/bothaxyt/enetproxy
+git clone https://github.com/carryykindoff/enetproxy3v
 cd enetproxy
 bash build.sh
 ./proxy_linux
@@ -26,7 +26,8 @@ now run that app in virtualxposed (if as main gt, it might cant login without ru
 
 
 -- original proxy made by ama (https://ama6nen/enetproxy)
--- cya xd
+-- edited proxy made by bot 
+-- byeeee
 
 
 -- command --
